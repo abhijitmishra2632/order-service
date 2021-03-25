@@ -16,13 +16,7 @@ public class ProductGist {
 	private String productType;
 	private String productBrand;
 	private String productStore;
-	private String productUnit;
 	private int productAmount;
 	private int productMRP;
-	private int productRealPrice;
 	private int productSellingPrice;
-	private boolean active;
-	private LocalDate now;
-	private boolean addedToCart;
-
 }
